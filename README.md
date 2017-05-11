@@ -1,5 +1,3 @@
-# rshell
-
 ### Assignment 2, By Jonnathein Chambers & Salvador Esquivias
 
 The program is broken down into different components:
