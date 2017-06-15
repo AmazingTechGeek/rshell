@@ -1,5 +1,5 @@
 # Set vars for compile args and program name
-CC=g++ -std=c++11
+CC=g++
 CC_FLAGS=-Wall -Werror -ansi -pedantic
 EXEC=rshell
 
